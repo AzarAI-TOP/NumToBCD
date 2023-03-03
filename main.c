@@ -20,7 +20,7 @@ int main (void)
         pos++;
     }
 
-    printf("0x%x\n", num_bcd);
+    printf("0x%x ( %d )\n", num_bcd, num_bcd);
 
 
     return 0;
